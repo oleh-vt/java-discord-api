@@ -23,5 +23,7 @@ package net.dv8tion.jda.api;
 public enum AccountType
 {
     /** An OAuth2 Bot which was created by an application */
-    BOT
+    BOT,
+    /** A human user created by an application */
+    HUMAN
 }
