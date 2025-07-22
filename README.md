@@ -51,6 +51,8 @@ The core concepts of JDA have been developed to make building scalable apps easy
 
 You can learn more by visiting our [wiki][wiki] or referencing our [Javadocs][docs].
 
+#### this is a test message
+
 ## 🔬 Installation
 
 [![maven-central][]](https://mvnrepository.com/artifact/net.dv8tion/JDA/latest)
